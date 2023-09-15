@@ -18,7 +18,7 @@ Projeto feito com o auxilio do curso da Rocketseat
 <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto DevLinks" src=".github/DevLinks.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
